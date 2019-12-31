@@ -5,3 +5,4 @@ npm update
 ->check node_modules directory have all plugin installed
 
 npm start to run project
+changed from gitHub
