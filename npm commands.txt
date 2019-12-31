@@ -1,0 +1,7 @@
+npm update
+npm audit fix
+npm update
+
+->check node_modules directory have all plugin installed
+
+npm start to run project
